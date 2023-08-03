@@ -1,12 +1,23 @@
+
+
 <h2>(SIEM) Azure Environment </h2>
 
 <h2>Description<h2>
  
+ <h2>Languages and Utilities Used</h2>
+
+- <b>PowerShell</b> 
+- <b>Diskpart</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10
+- AZURE VM </b> 
 <h2> Project Overview </h2>
 
 ![SIEM,imgur](https://i.imgur.com/0tt6hG1.jpg)
 
- <h2> Steps </h2>
+ <h2>Project walk-through:</h2> 
   
   # Get API key from here: https://ipgeolocation.io/
 $API_KEY      = "d4600b4efdef42b39828f5155041a457"
