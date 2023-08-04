@@ -4,16 +4,12 @@
 
 <h2>Description<h2>
  
- <h2>Languages and Utilities Used</h2>
+ <h2>Environments & Utilities Used:</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
+- <b>PowerShell</b>
 - <b>Windows 10
 - AZURE VM </b> 
-<h2> Project Overview </h2>
+<h2> Project Overview: </h2>
 
 ![SIEM,imgur](https://i.imgur.com/0tt6hG1.jpg)
 
