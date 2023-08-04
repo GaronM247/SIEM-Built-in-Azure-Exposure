@@ -8,8 +8,8 @@ To enhance our insights, we will leverage a custom PowerShell script to retrieve
  <h2>Environments & Utilities Used:</h2>
 
 - <b>PowerShell</b>
-- <b>Windows 10
-- AZURE VM </b> 
+- <b>Windows 10 </b>
+- <b>AZURE VM </b> 
 <h2> Visual Overview: </h2>
 
 ![SIEM,imgur](https://i.imgur.com/0tt6hG1.jpg)
