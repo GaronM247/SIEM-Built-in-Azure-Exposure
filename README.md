@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
 - <b>Windows 10
 - AZURE VM </b> 
-<h2> Project Overview: </h2>
+<h2> Visual Overview: </h2>
 
 ![SIEM,imgur](https://i.imgur.com/0tt6hG1.jpg)
 
