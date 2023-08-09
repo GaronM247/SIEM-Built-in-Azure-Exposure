@@ -10,9 +10,7 @@ To enhance our insights, we will leverage a custom PowerShell script to retrieve
 - <b>PowerShell</b>
 - <b>Windows 10 </b>
 - <b>AZURE VM </b> 
-<h2> Visual Overview: </h2>
 
-![SIEM,imgur](https://i.imgur.com/0tt6hG1.jpg)
 
  <h2>Project walk-through:</h2> 
   
