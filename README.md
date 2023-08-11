@@ -1,16 +1,15 @@
 <h2>(SIEM) Azure Environment </h2>
 
 <h2>Description</h2>
-  
-  In this engaging lab, I will guide you through the process of setting up Azure Sentinel (SIEM) and connecting it to a live virtual machine acting as a honey pot. Together, we will observe live attacks (RDP Brute Force) from various locations around the world.
-To enhance our insights, we will leverage a custom PowerShell script to retrieve the attackers' Geolocation information and skillfully plot it on the Azure Sentinel Map.Let's embark on this exciting journey together.
+  In this lab session, I will lead you through the intricacies of configuring Azure Sentinel (SIEM) and establishing a connection with a dynamic virtual machine, simulating a honey pot. Collaboratively, we will witness real-time instances of RDP Brute Force attacks originating from diverse global locations. Our analytical approach will be elevated through the utilization of a meticulously crafted PowerShell script, enabling the extraction of geolocation data pertaining to the attacker's. This data will be adeptly visualized on the Azure Sentinel Map, culminating in a dynamic and informative experience. Join me on this captivating expedition of knowledge and exploration.
 
+  
  <h2>Environments & Utilities Used:</h2>
 
 - <b>PowerShell</b>
 - <b>Windows 10 </b>
-- <b>AZURE VM </b> 
-
+- <b>Azure VM </b> 
+- <b>Azure Sentinel/Map </b>
 
  <h2>Project walk-through:</h2> 
   
