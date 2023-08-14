@@ -5,15 +5,15 @@
 
   
  <h2>Environments & Utilities Used:</h2>
-
-- <b>PowerShell</b>
+- <b>PowerShell ISE</b>
+- <b>Windows Event Viewer</b>
 - <b>Windows 10 </b>
 - <b>Azure VM </b> 
 - <b>Azure Sentinel/Map </b>
 
  <h2>Project walk-through:</h2>
  
- <h2>   Preparation </h2>
+ - <b> Preparation</b>
    
         
 
