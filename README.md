@@ -16,9 +16,10 @@
  
   **1.Set up Azure Account**
  - Ensure you have an Azure subscription and access to the Azure portal.
-- If you do not have a account, set one up.
-  
-  - Follow all the  prompts , you will need to put in a credit card, but will not need a full month's subscription.
+     - Sign up: https://azure.microsoft.com/en-us/free/
+Login: https://portal.azure.com
+
+    - Follow all the  prompts , you will need to put in a credit card, but will not need a full month's subscription.
 
     - (Important note): Do not forget your username and password, will need that later 
 
