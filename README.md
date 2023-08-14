@@ -14,17 +14,22 @@
 
  <h2>Project walk-through:</h2>
  
- - <b> Preparation</b>
+  **1.Set up Azure Account**
  - Ensure you have an Azure subscription and access to the Azure portal.
-- Set up an account if you do not have one.   
+- If you do not have a account, set one up.
+  
   - Follow all the  prompts , you will need to put in a credit card, but will not need a full month's subscription.
 
     - (Important note): Do not forget your username and password, will need that later 
 
-- Also get an API key. # Get API key from here: https://ipgeolocation.io/
+**2.Get API Key**
+- You well need this later so go ahead and get it now: # Get API key from here: https://ipgeolocation.io/
 
         
+**3**
 
+
+**4**
 
 $API_KEY      = "d4600b4efdef42b39828f5155041a457"
 $LOGFILE_NAME = "failed_rdp.log"
