@@ -11,8 +11,14 @@
 - <b>Azure VM </b> 
 - <b>Azure Sentinel/Map </b>
 
- <h2>Project walk-through:</h2> 
-  
+ <h2>Project walk-through:</h2>
+ 
+ <h2>   Preparation </h2>
+   - Ensure you have an Azure subscription and access to the Azure portal.
+   - Set up an account if you do not have one.  
+           Steps: 
+        
+
   # Get API key from here: https://ipgeolocation.io/
 $API_KEY      = "d4600b4efdef42b39828f5155041a457"
 $LOGFILE_NAME = "failed_rdp.log"
