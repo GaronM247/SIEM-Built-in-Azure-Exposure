@@ -14,9 +14,7 @@
  <h2>Project walk-through:</h2>
  
  <h2>   Preparation </h2>
-   - Ensure you have an Azure subscription and access to the Azure portal.
-   - Set up an account if you do not have one.  
-           Steps: 
+   
         
 
   # Get API key from here: https://ipgeolocation.io/
