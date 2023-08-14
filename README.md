@@ -17,7 +17,7 @@
  - <b> Preparation</b>
  - Ensure you have an Azure subscription and access to the Azure portal.
 - Set up an account if you do not have one.   
-  - Follow all the  prompts , you will need to put in a credit card in, but will not need a full month's subscription.
+  - Follow all the  prompts , you will need to put in a credit card, but will not need a full month's subscription.
 
     - (Important note): Do not forget your username and password, will need that later 
 
