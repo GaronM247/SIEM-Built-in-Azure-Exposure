@@ -11,6 +11,7 @@
 - <b>Windows 10 </b>
 - <b>Azure VM </b> 
 - <b>Azure Sentinel/Map </b>
+- <b>Azure Log Analytics Workspace</b>
 
  <h2>Project walk-through:</h2>
  
