@@ -223,6 +223,10 @@
 1. Click on your desktop's "Start menu."
 2. Locate the "Remote Desktop" application.
 3. Launch the application.
+   
+   <p align="center">
+<img src="https://i.imgur.com/DYP9Sck.png" height="85%" width="85%" alt="Image RDP"/>
+</p> 
 
 ### Paste the IP Address
 
@@ -448,6 +452,7 @@
 2. Enter the filter: "security event id equals 4625".
 3. Run the filter to display failed RDP logs.
 4. Explore the logs for IP addresses and more details.
+   
 <p align="center">
 <img src="https://i.imgur.com/VNdfCEa.png" height="85%" width="85%" alt="Image"/>
 </p> 
