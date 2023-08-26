@@ -136,6 +136,10 @@
 
 1. Within Log Analysis Workspace, enable Defender.
 2. Simultaneously, turn off SQL Servers as shown in the image.
+   
+  <p align="center">
+<img src="https://i.imgur.com/pDcjDe8.png" height="85%" width="85%" alt="Image "/>
+</p> 
 
 ### Save Changes
 
