@@ -632,7 +632,10 @@ FAILED_RDP_WITH_GEO_CL | summarize event_court=count() by sourcehost_CF, latitud
 
 1. Review the data in the VM PowerShell script to gain insights into attacks and their patterns.
    
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/i0dS5M5"><a href="//imgur.com/i0dS5M5">RDP</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+   <p align="center">
+<img src="https://i.imgur.com/JWnqI1C.png" height="85%" width="85%
+</p>
+
 
 ### Long-Term Observation
 
