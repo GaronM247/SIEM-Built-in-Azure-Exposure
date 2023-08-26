@@ -445,9 +445,14 @@
 ## Access Security Event Logs
 
 1. Go to the "security event" section.
-2. Enter the filter: "security event id equals 46.25".
+2. Enter the filter: "security event id equals 4625".
 3. Run the filter to display failed RDP logs.
 4. Explore the logs for IP addresses and more details.
+<p align="center">
+<img src="https://i.imgur.com/VNdfCEa.png" height="85%" width="85%" alt="Image"/>
+</p> 
+
+
 
 ## Extract Files from Logs
 
@@ -537,8 +542,8 @@
 
 ## Set-up Map Visualization in Sentinel
 
-### Open a new browser tab and navigate to "portal.azure.com".
-### In the search bar at the top of the portal, type "Sentinel" and press Enter.
+1.) Open a new browser tab and navigate to "portal.azure.com".
+2.) In the search bar at the top of the portal, type "Sentinel" and press Enter.
 
 ### In Azure Sentinel:
 
@@ -584,7 +589,7 @@ FAILED_RDP_WITH_GEO_CL | summarize event_court=count() by sourcehost_CF, latitud
 
 ### Customize Appearance and Functionality
 
-1. Customize the map settings to achieve the desired appearance and functionality. Refer to the provided image for guidance.
+1. Customize the map settings to achieve the desired appearance and functionality. 
 
 ### Plotting Locations
 
