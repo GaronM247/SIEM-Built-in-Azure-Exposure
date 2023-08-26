@@ -462,9 +462,6 @@
 3. Run the filter to display failed RDP logs.
 4. Explore the logs for IP addresses and more details.
    
-<p align="center">
-<img src="https://i.imgur.com/VNdfCEa.png" height="85%" width="85%" alt="Image"/>
-</p> 
 
 
 
