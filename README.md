@@ -45,6 +45,11 @@
 
 1. Choose to create a new resource group.
 2. Name the resource group "Honey Pot VM" for identification.
+   
+<p align="center">
+<img src="https://i.imgur.com/EmV9yH8.png" height="85%" width="85%" alt="Image"/>
+</p> 
+
 
 ### Specify Location
 
