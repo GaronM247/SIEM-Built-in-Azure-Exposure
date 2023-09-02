@@ -47,7 +47,7 @@
 2. Name the resource group "Honey Pot VM" for identification.
    
 <p align="center">
-<img src="https://i.imgur.com/EmV9yH8.png" height="85%" width="85%" alt="Image"/>
+<img src="https://i.imgur.com/mCgFv5N.png" height="85%" width="85%" alt="Image"/>
 </p> 
 
 
@@ -138,7 +138,7 @@
 2. Simultaneously, turn off SQL Servers as shown in the image.
    
   <p align="center">
-<img src="https://i.imgur.com/pDcjDe8.png" height="85%" width="85%" alt="Image "/>
+<img src="https://i.imgur.com/Sjp7qNc.png" height="85%" width="85%" alt="Image "/>
 </p> 
 
 ### Save Changes
@@ -234,7 +234,7 @@
 3. Launch the application.
    
    <p align="center">
-<img src="https://i.imgur.com/DYP9Sck.png" height="85%" width="85%" alt="Image RDP"/>
+<img src="https://i.imgur.com/5cyncjM.png" height="85%" width="85%" alt="Image RDP"/>
 </p> 
 
 ### Paste the IP Address
@@ -650,7 +650,7 @@ FAILED_RDP_WITH_GEO_CL | summarize event_court=count() by sourcehost_CF, latitud
 
    
   <p align="center">
-<img src="https://i.imgur.com/JWnqI1C.png" height="85%" width="85%" alt="Image Map"/>
+<img src="https://i.imgur.com/XTSYOZi.png" height="85%" width="85%" alt="Image Map"/>
 </p> 
 
 
